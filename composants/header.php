@@ -66,7 +66,7 @@
             <div class="container">
                 <div class="area">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/header/logo/logo1.png" alt="logo" /></a>
+                        <a href="index.php"><img src="assets/images/header/logo/logo1.png" alt="logo" /></a>
                     </div>
                     <div class="main-menu">
                         <div class="menu">

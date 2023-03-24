@@ -245,7 +245,7 @@
                             <div class="service__item">
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
-                                        <a href="service-single.html">
+                                        <a href="#">
                                             <img src="assets/images/service/01.jpg" alt="service" />
                                         </a>
                                     </div>
@@ -254,9 +254,9 @@
                                             <img src="assets/images/service/icon/01.png" alt="service icon" />
                                         </div>
                                         <span>Transport</span>
-                                        <h4><a href="service-single.html">Transport de bitume</a></h4>
+                                        <h4><a href="#">Transport de bitume</a></h4>
                                         <p>Nous nous chargeons du transport de bitume</p>
-                                        <a href="service-single.html" class="read-more">Plus de détails</a>
+                                        <a href="#" class="read-more">Plus de détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -265,7 +265,7 @@
                             <div class="service__item">
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
-                                        <a href="service-single.html">
+                                        <a href="#">
                                             <img src="assets/images/service/02.jpg" alt="service" />
                                         </a>
                                     </div>
@@ -274,9 +274,9 @@
                                             <img src="assets/images/service/icon/02.png" alt="service icon" />
                                         </div>
                                         <span>Transport</span>
-                                        <h4><a href="service-single.html">Transport vraquier</a></h4>
+                                        <h4><a href="#">Transport vraquier</a></h4>
                                         <p>Nous nous chargeons du transport de vraquier</p>
-                                        <a href="service-single.html" class="read-more">Plus de détails</a>
+                                        <a href="#" class="read-more">Plus de détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -285,7 +285,7 @@
                             <div class="service__item">
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
-                                        <a href="service-single.html">
+                                        <a href="#">
                                             <img src="assets/images/service/02.jpg" alt="service" />
                                         </a>
                                     </div>
@@ -294,9 +294,9 @@
                                             <img src="assets/images/service/icon/02.png" alt="service icon" />
                                         </div>
                                         <span>Transport</span>
-                                        <h4><a href="service-single.html">Transport plateau</a></h4>
+                                        <h4><a href="#">Transport plateau</a></h4>
                                         <p>Nous nous chargeons du transport de plateau</p>
-                                        <a href="service-single.html" class="read-more">Plus de détails</a>
+                                        <a href="#" class="read-more">Plus de détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -305,7 +305,7 @@
                             <div class="service__item">
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
-                                        <a href="service-single.html">
+                                        <a href="#">
                                             <img src="assets/images/service/03.jpg" alt="service" />
                                         </a>
                                     </div>
@@ -314,9 +314,9 @@
                                             <img src="assets/images/service/icon/03.png" alt="service icon" />
                                         </div>
                                         <span>Location</span>
-                                        <h4><a href="service-single.html"> Location de grue télescopique</a></h4>
+                                        <h4><a href="#"> Location de grue télescopique</a></h4>
                                         <p>Nous assurons la location de grue télescopique</p>
-                                        <a href="service-single.html" class="read-more">Plus de détails</a>
+                                        <a href="#" class="read-more">Plus de détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -325,7 +325,7 @@
                             <div class="service__item">
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
-                                        <a href="service-single.html">
+                                        <a href="#">
                                             <img src="assets/images/service/03.jpg" alt="service" />
                                         </a>
                                     </div>
@@ -334,9 +334,9 @@
                                             <img src="assets/images/service/icon/03.png" alt="service icon" />
                                         </div>
                                         <span>Location</span>
-                                        <h4><a href="service-single.html"> Location de grue porte-char</a></h4>
+                                        <h4><a href="#"> Location de grue porte-char</a></h4>
                                         <p>Nous assurons la location de grue porte-char</p>
-                                        <a href="service-single.html" class="read-more">Plus de détails</a>
+                                        <a href="#" class="read-more">Plus de détails</a>
                                     </div>
                                 </div>
                             </div>
@@ -376,8 +376,8 @@
                                 <img src="assets/images/project/06.jpg" alt="project" />
                             </div>
                             <div class="project__content">
-                                <a href="project-single.html" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="project-single.html">Nom produit</a></h4>
+                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                                <h4><a href="#">Nom produit</a></h4>
                                 <span>Categorie</span>
                             </div>
                         </div>
@@ -388,8 +388,8 @@
                                 <img src="assets/images/project/07.jpg" alt="project" />
                             </div>
                             <div class="project__content">
-                                <a href="project-single.html" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="project-single.html">Nom produit</a></h4>
+                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                                <h4><a href="#">Nom produit</a></h4>
                                 <span>Categorie</span>
                             </div>
                         </div>
@@ -400,8 +400,8 @@
                                 <img src="assets/images/project/08.jpg" alt="project" />
                             </div>
                             <div class="project__content">
-                                <a href="project-single.html" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="project-single.html">Nom produit</a></h4>
+                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                                <h4><a href="#">Nom produit</a></h4>
                                 <span>Categorie</span>
                             </div>
                         </div>
@@ -412,8 +412,8 @@
                                 <img src="assets/images/project/09.jpg" alt="project" />
                             </div>
                             <div class="project__content">
-                                <a href="project-single.html" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="project-single.html">Nom produit</a></h4>
+                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                                <h4><a href="#">Nom produit</a></h4>
                                 <span>Categorie</span>
                             </div>
                         </div>
@@ -424,8 +424,8 @@
                                 <img src="assets/images/project/10.jpg" alt="project" />
                             </div>
                             <div class="project__content">
-                                <a href="project-single.html" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="project-single.html">Nom produit</a></h4>
+                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                                <h4><a href="#">Nom produit</a></h4>
                                 <span>Categorie</span>
                             </div>
                         </div>
@@ -436,15 +436,15 @@
                                 <img src="assets/images/project/11.jpg" alt="project" />
                             </div>
                             <div class="project__content">
-                                <a href="project-single.html" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="project-single.html">Nom produit</a></h4>
+                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                                <h4><a href="#">Nom produit</a></h4>
                                 <span>Categorie</span>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="text-center mt-4">
-                    <a href="project.html" class="lab-btn">Voir tous les services</a>
+                    <a href="service.php" class="lab-btn">Voir tous les services</a>
                 </div>
             </div>
         </div>

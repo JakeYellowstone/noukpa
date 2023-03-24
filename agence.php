@@ -28,10 +28,10 @@
                         <div class="teamMember__item">
                             <div class="teamMember__inner">
                                 <div class="teamMember__thumb">
-                                    <a href="contact.html"><img src="assets/images/team/01.jpg" alt="teamMember" /></a>
+                                    <a href="nos_contact.php"><img src="assets/images/team/01.jpg" alt="teamMember" /></a>
                                 </div>
                                 <div class="teamMember__content">
-                                    <h4><a href="contact.html">Agence d'Abidjan</a></h4>
+                                    <h4><a href="nos_contact.php">Agence d'Abidjan</a></h4>
                                     <span>Cocody, Attoban, vers la grande mosquée d'Attoban</span>
                                 </div>
                             </div>
@@ -41,10 +41,10 @@
                         <div class="teamMember__item">
                             <div class="teamMember__inner">
                                 <div class="teamMember__thumb">
-                                    <a href="contact.html"><img src="assets/images/team/02.jpg" alt="teamMember" /></a>
+                                    <a href="nos_contact.php"><img src="assets/images/team/02.jpg" alt="teamMember" /></a>
                                 </div>
                                 <div class="teamMember__content">
-                                    <h4><a href="contact.html">Agence de Bouaké</a></h4>
+                                    <h4><a href="nos_contact.php">Agence de Bouaké</a></h4>
                                     <span>N'Gattakro immeubles Fanny Brahima</span>
                                 </div>
                             </div>
