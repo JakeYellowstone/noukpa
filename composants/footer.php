@@ -53,7 +53,7 @@
         <div class="footer__bottom">
             <div class="container">
                 <div class="footer__copytext text-center">
-                    <p>&copy; 2022 <a href="index.html">Noukpa Transport</a>. Tous droits réservés.</p>
+                    <p>&copy; 2022 <a href="index.php">Noukpa Transport</a>. Tous droits réservés.</p>
                 </div>
             </div>
         </div>

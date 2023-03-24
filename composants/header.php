@@ -78,13 +78,13 @@
                                     <a href="service.php" class="active">Services</a>
                                 </li>
                                 <li>
-                                    <a href="about.php" class="active">Qui sommes Nous ?</a>
+                                    <a href="about.php" class="active">Qui sommes nous ?</a>
                                 </li>
                                 <li>
-                                    <a href="nos_contact.php" class="active">Nos Contacts</a>
+                                    <a href="nos_contact.php" class="active">Nos contacts</a>
                                 </li>
                             </ul>
-                            <a href="agence.php" class="lab-btn">Nos Agences</a>
+                            <a href="agence.php" class="lab-btn">Nos agences</a>
                         </div>
 
                         <div class="header__bararea">

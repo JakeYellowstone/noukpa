@@ -6,13 +6,7 @@
     <div class="pageheader">
         <div class="container">
             <div class="pageheader__content">
-                <h2>Informations Contact</h2>
-                <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Accueil</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Nous contacter</li>
-                    </ol>
-                </nav>
+                <h2>Nos contacts</h2>
             </div>
         </div>
     </div>
@@ -36,7 +30,7 @@
                             </div>
                             <div class="information__content">
                                 <h5>Notre adresse</h5>
-                                <p>Abidjan, Cocody Attogban vers la grande Mosque d’Attogban</p>
+                                <p>Abidjan, Cocody Attogban vers la grande Mosquée d’Attogban</p>
                             </div>
                         </div>
                     </div>
@@ -47,7 +41,7 @@
                             </div>
                             <div class="information__content">
                                 <h5>Adresse Mail</h5>
-                                <p>yourmail@gmail.com <br /> yourmail@gmail.com</p>
+                                <p>votreAdresse@gmail.com <br /> yvotreAdresse@gmail.com</p>
                             </div>
                         </div>
                     </div>
@@ -58,7 +52,7 @@
                             </div>
                             <div class="information__content">
                                 <h5>Numéro de téléphone</h5>
-                                <p>+880 1234 567 890 <br /> +02 369 874</p>
+                                <p>+225 1234 567 890 <br /> +225 1234 567 890</p>
                             </div>
                         </div>
                     </div>

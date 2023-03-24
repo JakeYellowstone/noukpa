@@ -155,27 +155,6 @@ a h6 {
   border: none;
 }
 
-.footer__copytext p a, .footer__page .footer__wrapper ul li a, .header__one .header__top .social li a, .header__bottom .area .menu ul li a, .sidebar__comment .body ul li .content .reply a, .sidebar__tags .body ul li a, .sidebar__helps .body .content ul li p, .jobs__lists .table tr td p, .pageheader__content .breadcrumb .breadcrumb-item, .appointment__content input::placeholder, .appointment__content label, .blog.home .blog__meta ul li, .blog.home .blog__content .read-more, .teamMember__single .teamMember__memberInfo-content > span, .teamMember__content > a, .teamMember__content span, .service__three .service__content .read-more, .service__two .service__content .read-more, .service__content span, .banner__btngroup .video__btn span, .read-more, .filters-button-group .button, .tags-section .tags li a, h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a,
-a h1,
-a h2,
-a h3,
-a h4,
-a h5,
-a h6 {
-  text-transform: capitalize;
-}
-
 /* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
 .footer__about ul li a, .information__icon, .menu-item-has-children.open > a::after, .menu-item-has-children.open > a::before, .header__four .header__bottom .area .menu ul li:hover > a, .header__three .header__bottom .area .menu ul li ul li a.active, .header__three .header__bottom .area .menu ul li ul li a:hover, .header__three .header__bottom .area .menu ul li > a, .header__two .header__bottom .area .search-area form button, .header__two .header__bottom .area .search-area form input, .header__one .header__top .social li a, .header__one .header__top .info ul li, .header__bottom .area .menu ul li ul li a, .header__bottom .area .menu ul li a, .sidebar__comment .body ul li .content .reply a, .sidebar__tags .body ul li a:hover, .pageheader__content .breadcrumb .breadcrumb-item a, .pageheader__content h2, .misson__tabul li .lab-btn.active, .misson__tabul li .lab-btn:hover, .specialtie__two .specialtie__content h2, .specialtie__two *, .specialtie__content h5, .specialtie .section__header h2, .blog--single .blog__content blockquote p, .blog--single .blog__content blockquote i, .blog.bg-primary .section__header h2, .blog.home .blog__thumb .date, .testimonial__three .testimonial__video .icon, .testimonial__thumb .thumb i, .testimonial__navigation .navi, .testimonial .section__header h2, .project__content h4 a, .project__content span, .work__two .work__content h5, .work__two .work__inner, .work__thumb span, .teamMember__two .teamMember__inner:hover .teamMember__content h4 a, .teamMember__two .teamMember__inner:hover .teamMember__content span, .teamMember__two .teamMember__inner:hover .teamMember__content ul li a, .service__single .service__content .teamMember__content ul li i, .service__single .service__content .teamMember__inner:hover .teamMember__content h4 a, .service__content .round-btn, .about__thumb .thumb--content h4, .feature__four .feature__content h5, .feature__three .col-12:nth-child(2) .feature__content h4, .feature__three .col-12:nth-child(2) .feature__content p, .feature__three .col-12:nth-child(1) .feature__content h4, .feature__three .col-12:nth-child(1) .feature__content p, .feature__area .infotext p, .banner__five .banner__btngroup a:first-child, .banner__three .banner__btngroup .lab-btn, .banner__one .banner__content h2, .banner__btngroup .video__btn span, .filters-button-group .button.is-checked, .bg-title *, .tags-section .social-link-list li a, .pagination li .page-link:hover {
   color: #fff;
@@ -774,7 +753,6 @@ input, textarea, select {
   border-radius: 2px;
   padding: 0 1.3rem;
   color: #fff;
-  text-transform: capitalize;
 }
 @media (min-width: 1200px) {
   .lab-btn {
@@ -2530,7 +2508,6 @@ input, textarea, select {
   font-size: 1.25rem;
   padding: 15px 20px;
   font-weight: 700;
-  text-transform: capitalize;
   border: none;
 }
 .accordion-button .accordion-icon {

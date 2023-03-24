@@ -16,8 +16,8 @@
                                         <h6>Esprit d'équipe</h6>
                                         <h2>Ensemble nous réalisons beaucoup</h2>
                                         <div class="banner__btngroup justify-content-center">
-                                            <a href="#" class="lab-btn">Voir tous les services</a>
-                                            <a href="#" class="lab-btn">Noukpa</a>
+                                            <a href="service.php" class="lab-btn">Voir tous les services</a>
+                                            <a href="about.php" class="lab-btn">Noukpa</a>
                                         </div>
                                     </div>
                                 </div>
@@ -36,8 +36,8 @@
                                         <h6>Innovation</h6>
                                         <h2>Des solutions innovantes.</h2>
                                         <div class="banner__btngroup justify-content-center">
-                                            <a href="#" class="lab-btn">Voir tous les services</a>
-                                            <a href="#" class="lab-btn">Noukpa</a>
+                                            <a href="service.php" class="lab-btn">Voir tous les services</a>
+                                            <a href="about.php" class="lab-btn">Noukpa</a>
                                         </div>
                                     </div>
                                 </div>
@@ -56,8 +56,8 @@
                                         <h6>Intégrité</h6>
                                         <h2>Nous sommes honnêtes et intègres.</h2>
                                         <div class="banner__btngroup justify-content-center">
-                                            <a href="#" class="lab-btn">Voir tous les services</a>
-                                            <a href="#" class="lab-btn">Noukpa</a>
+                                            <a href="service.php" class="lab-btn">Voir tous les services</a>
+                                            <a href="about.php" class="lab-btn">Noukpa</a>
                                         </div>
                                     </div>
                                 </div>
@@ -76,8 +76,8 @@
                                         <h6>Engagement</h6>
                                         <h2>Le meilleur dans nos actions.</h2>
                                         <div class="banner__btngroup justify-content-center">
-                                            <a href="#" class="lab-btn">Voir tous les services</a>
-                                            <a href="#" class="lab-btn">Noukpa</a>
+                                            <a href="service.php" class="lab-btn">Voir tous les services</a>
+                                            <a href="about.php" class="lab-btn">Noukpa</a>
                                         </div>
                                     </div>
                                 </div>
@@ -96,8 +96,8 @@
                                         <h6>Excellence</h6>
                                         <h2>Nous visons l'excellence.</h2>
                                         <div class="banner__btngroup justify-content-center">
-                                            <a href="#" class="lab-btn">Voir tous les services</a>
-                                            <a href="#" class="lab-btn">Noukpa</a>
+                                            <a href="service.php" class="lab-btn">Voir tous les services</a>
+                                            <a href="about.php" class="lab-btn">Noukpa</a>
                                         </div>
                                     </div>
                                 </div>
@@ -171,7 +171,7 @@
     <div class="about about__two padding-tb">
         <div class="container">
             <div class="section__header text-center">
-                <h6>Pourquoi nous choisir</h6>
+                <h6>Pourquoi nous choisir ?</h6>
                 <h2>Obtenez les services de transport les plus avantageux</h2>
             </div>
             <div class="section__wrapper">
@@ -185,7 +185,7 @@
                                         <div class="pie"
                                             data-pie='{ "index": 1, "percent": 100, "colorSlice": "#021738", "colorCircle": "#fff", "fontWeight": 700, "stroke": 6, "size": 70,"fontSize": "1.5rem","fontColor":"#021738" }'>
                                         </div>
-                                        <h5>100% satisfait</h5>
+                                        <h5>Nos machines sont <br> 100% fonctionnelles</h5>
                                     </div>
                                     <div class="floating-img"><img src="assets/images/about/07.jpg" alt="About Image" /></div>
                                 </div>
@@ -195,7 +195,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="about__content">
                             <p>Nous sommes fiers de disposer de moyens de transport non seulement de qualité mais technologiques qui seront répondre parfaitement à vos différentes requêtes. </p>
-                            <p>Nous acheminerons vos produits (pétroliers, hycarbure, etc...) à destination sans qu'ils subissent un quelqconque dégats. EN sécurité et dans de brefs délais</p>
+                            <p>Nous acheminerons vos produits (pétroliers, hycarbures, etc...) à destination sans qu'ils subissent un quelconque dégat, dans de brefs délais.</p>
                             <ul>
                                 <li class="w-100">
                                     <div class="icon">
@@ -212,13 +212,13 @@
                                     </div>
                                     <div class="text">
                                         <h6>Notre matériel</h6>
-                                        <p>Nous disposons de camons benne, de grue télescopique et de divers.</p>
+                                        <p>Nous disposons de camions benne, de grues télescopiques et divers.</p>
                                     </div>
                                 </li>
                             </ul>
                             <div class="about__footer">
                                 <div class="text-center infotext">
-                                    <p>Vous voulez en savoir plus sur nos nous ? <a href="#">Cliquez ici</a></p>
+                                    <p>Vous voulez en savoir plus sur nous ? <a href="about.php">Cliquez ici</a></p>
                                 </div>
                             </div>
                         </div>
@@ -359,7 +359,7 @@
         <div class="container">
             <div class="section__header text-center">
                 <h6>Nos produits</h6>
-                <h2>POur vous donner un aperçu de nos produits.</h2>
+                <h2>Pour vous donner un aperçu de nos produits.</h2>
             </div>
             <div class="section__wrapper">
                 <ul class="button-group filters-button-group d-flex flex-wrap justify-content-center">
