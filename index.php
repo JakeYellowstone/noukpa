@@ -7,7 +7,7 @@
     <div class="banner__slider__one overflow-hidden">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="banner banner__one banner__three bg-img bpc" style="background-image: url(assets/images/banner/bg/03-d4.jpg);">
+                <div class="banner banner__one banner__three bg-img bpc" style="background-image: url(assets/images/banner/bg/camion1.jpg);">
                     <div class="container">
                         <div class="banner__area">
                             <div class="row justify-content-center">
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="banner banner__one banner__three bg-img" style="background-image: url(assets/images/banner/bg/03-d2.jpg);">
+                <div class="banner banner__one banner__three bg-img" style="background-image: url(assets/images/banner/bg/camion2.jpg);">
                     <div class="container">
                         <div class="banner__area">
                             <div class="row justify-content-center">
@@ -47,7 +47,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="banner banner__one banner__three bg-img" style="background-image: url(assets/images/banner/bg/03-d3.jpg);">
+                <div class="banner banner__one banner__three bg-img" style="background-image: url(assets/images/banner/bg/ciment1.jpg);">
                     <div class="container">
                         <div class="banner__area">
                             <div class="row justify-content-center">
@@ -67,7 +67,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="banner banner__one banner__three bg-img" style="background-image: url(assets/images/banner/bg/03-d3.jpg);">
+                <div class="banner banner__one banner__three bg-img" style="background-image: url(assets/images/banner/bg/ciment2.jpg);">
                     <div class="container">
                         <div class="banner__area">
                             <div class="row justify-content-center">
@@ -87,7 +87,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="banner banner__one banner__three bg-img" style="background-image: url(assets/images/banner/bg/03-d3.jpg);">
+                <div class="banner banner__one banner__three bg-img" style="background-image: url(assets/images/banner/bg/ciment3.jpg);">
                     <div class="container">
                         <div class="banner__area">
                             <div class="row justify-content-center">
@@ -121,7 +121,7 @@
                         <div class="feature__item">
                             <div class="feature__inner">
                                 <div class="feature__thumb">
-                                    <img src="assets/images/feature/icon/08.png" alt="feature icon" />
+                                    <img src="assets/images/feature/icon/transport.png" alt="feature icon" />
                                 </div>
                                 <div class="feature__content">
                                     <h4>Produits Pétroliers</h4>
@@ -134,7 +134,7 @@
                         <div class="feature__item">
                             <div class="feature__inner">
                                 <div class="feature__thumb">
-                                    <img src="assets/images/feature/icon/09.png" alt="feature icon" />
+                                    <img src="assets/images/service/icon/camion.png" alt="feature icon" />
                                 </div>
                                 <div class="feature__content">
                                     <h4>Marchandises</h4>
@@ -147,7 +147,7 @@
                         <div class="feature__item">
                             <div class="feature__inner">
                                 <div class="feature__thumb">
-                                    <img src="assets/images/feature/icon/10.png" alt="feature icon" />
+                                    <img src="assets/images/feature/icon/grue.png" alt="feature icon" />
                                 </div>
                                 <div class="feature__content">
                                     <h4>Location</h4>
@@ -180,14 +180,14 @@
                         <div class="about__thumb">
                             <div class="row g-4">
                                 <div class="thumb thumb--2">
-                                    <img src="assets/images/about/06.jpg" alt="About Image" />
+                                    <img src="assets/images/about/camion_500.jpg" alt="About Image" />
                                     <div class="thumb--experience text-start">
                                         <div class="pie"
                                             data-pie='{ "index": 1, "percent": 100, "colorSlice": "#021738", "colorCircle": "#fff", "fontWeight": 700, "stroke": 6, "size": 70,"fontSize": "1.5rem","fontColor":"#021738" }'>
                                         </div>
                                         <h5>Nos machines sont <br> 100% fonctionnelles</h5>
                                     </div>
-                                    <div class="floating-img"><img src="assets/images/about/07.jpg" alt="About Image" /></div>
+                                    <div class="floating-img"><img src="assets/images/about/ciment_200.jpg" alt="About Image" /></div>
                                 </div>
                             </div>
                         </div>
@@ -246,12 +246,12 @@
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
                                         <a href="#">
-                                            <img src="assets/images/service/01.jpg" alt="service" />
+                                            <img src="assets/images/service/bitume_416.jpg" alt="service" />
                                         </a>
                                     </div>
                                     <div class="service__content">
                                         <div class="service__icon">
-                                            <img src="assets/images/service/icon/01.png" alt="service icon" />
+                                            <img src="assets/images/service/icon/camion.png" alt="service icon" />
                                         </div>
                                         <span>Transport</span>
                                         <h4><a href="#">Transport de bitume</a></h4>
@@ -266,12 +266,12 @@
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
                                         <a href="#">
-                                            <img src="assets/images/service/02.jpg" alt="service" />
+                                            <img src="assets/images/service/vraquier_416.jpg" alt="service" />
                                         </a>
                                     </div>
                                     <div class="service__content">
                                         <div class="service__icon">
-                                            <img src="assets/images/service/icon/02.png" alt="service icon" />
+                                            <img src="assets/images/service/icon/camion.png" alt="service icon" />
                                         </div>
                                         <span>Transport</span>
                                         <h4><a href="#">Transport vraquier</a></h4>
@@ -286,12 +286,12 @@
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
                                         <a href="#">
-                                            <img src="assets/images/service/02.jpg" alt="service" />
+                                            <img src="assets/images/service/plateau_416.jpg" alt="service" />
                                         </a>
                                     </div>
                                     <div class="service__content">
                                         <div class="service__icon">
-                                            <img src="assets/images/service/icon/02.png" alt="service icon" />
+                                            <img src="assets/images/service/icon/camion.png" alt="service icon" />
                                         </div>
                                         <span>Transport</span>
                                         <h4><a href="#">Transport plateau</a></h4>
@@ -306,12 +306,12 @@
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
                                         <a href="#">
-                                            <img src="assets/images/service/03.jpg" alt="service" />
+                                            <img src="assets/images/service/grue_tele_416.jpg" alt="service" />
                                         </a>
                                     </div>
                                     <div class="service__content">
                                         <div class="service__icon">
-                                            <img src="assets/images/service/icon/03.png" alt="service icon" />
+                                            <img src="assets/images/feature/icon/grue.png" alt="service icon" />
                                         </div>
                                         <span>Location</span>
                                         <h4><a href="#"> Location de grue télescopique</a></h4>
@@ -326,12 +326,12 @@
                                 <div class="service__inner text-center">
                                     <div class="service__thumb">
                                         <a href="#">
-                                            <img src="assets/images/service/03.jpg" alt="service" />
+                                            <img src="assets/images/service/grue_porte_416.jpg" alt="service" />
                                         </a>
                                     </div>
                                     <div class="service__content">
                                         <div class="service__icon">
-                                            <img src="assets/images/service/icon/03.png" alt="service icon" />
+                                            <img src="assets/images/feature/icon/grue.png" alt="service icon" />
                                         </div>
                                         <span>Location</span>
                                         <h4><a href="#"> Location de grue porte-char</a></h4>
@@ -353,106 +353,6 @@
     <!-- ==========Services Section Ends Here========== -->
 
 
-
-    <!-- ==========Project Section Starts Here========== -->
-    <div class="project project__two padding-tb">
-        <div class="container">
-            <div class="section__header text-center">
-                <h6>Nos produits</h6>
-                <h2>Pour vous donner un aperçu de nos produits.</h2>
-            </div>
-            <div class="section__wrapper">
-                <ul class="button-group filters-button-group d-flex flex-wrap justify-content-center">
-                    <li class="button is-checked filter-btn" data-filter="*">Tout</li>
-                    <li class="button filter-btn" data-filter=".petrole">Transport Pétrole</li>
-                    <li class="button filter-btn" data-filter=".benne">Transport benne</li>
-                    <li class="button filter-btn" data-filter=".Categorie">Transport plateau</li>
-                    <li class="button filter-btn" data-filter=".business">Location</li>
-                </ul>
-                <div class="grid">
-                    <div class="project__item petrole Categorie business">
-                        <div class="project__inner">
-                            <div class="project__thumb">
-                                <img src="assets/images/project/06.jpg" alt="project" />
-                            </div>
-                            <div class="project__content">
-                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="#">Nom produit</a></h4>
-                                <span>Categorie</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__item benne">
-                        <div class="project__inner">
-                            <div class="project__thumb">
-                                <img src="assets/images/project/07.jpg" alt="project" />
-                            </div>
-                            <div class="project__content">
-                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="#">Nom produit</a></h4>
-                                <span>Categorie</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__item Categorie petrole">
-                        <div class="project__inner">
-                            <div class="project__thumb">
-                                <img src="assets/images/project/08.jpg" alt="project" />
-                            </div>
-                            <div class="project__content">
-                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="#">Nom produit</a></h4>
-                                <span>Categorie</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__item business benne">
-                        <div class="project__inner">
-                            <div class="project__thumb">
-                                <img src="assets/images/project/09.jpg" alt="project" />
-                            </div>
-                            <div class="project__content">
-                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="#">Nom produit</a></h4>
-                                <span>Categorie</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__item petrole Categorie">
-                        <div class="project__inner">
-                            <div class="project__thumb">
-                                <img src="assets/images/project/10.jpg" alt="project" />
-                            </div>
-                            <div class="project__content">
-                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="#">Nom produit</a></h4>
-                                <span>Categorie</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__item petrole business">
-                        <div class="project__inner">
-                            <div class="project__thumb">
-                                <img src="assets/images/project/11.jpg" alt="project" />
-                            </div>
-                            <div class="project__content">
-                                <a href="#" class="project__icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                                <h4><a href="#">Nom produit</a></h4>
-                                <span>Categorie</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="text-center mt-4">
-                    <a href="service.php" class="lab-btn">Voir tous les services</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ==========Project Section Ends Here========== -->
-
-
-
     <!-- ==========Work Section Starts Here========== -->
     <div class="work work__two padding-tb">
         <div class="container">
@@ -467,7 +367,7 @@
                             <div class="work__inner">
                                 <span>01</span>
                                 <div class="work__content">
-                                    <img src="assets/images/work/icon/05.png" alt="work icon" />
+                                    <img width="90" height="90" src="assets/images/work/icon/qualite.png" alt="work icon" />
                                     <h5>Matériel de qualité</h5>
                                     <p>Nos moyens de transport sont fiables</p>
                                 </div>
@@ -479,8 +379,8 @@
                             <div class="work__inner">
                                 <span>02</span>
                                 <div class="work__content">
-                                    <img src="assets/images/work/icon/06.png" alt="work icon" />
-                                    <h5>Delais respect</h5>
+                                    <img width="90" height="90" src="assets/images/work/icon/respect.png" alt="work icon" />
+                                    <h5>Delais respectés</h5>
                                     <p>Nous sommes rigoureux dans le travail</p>
                                 </div>
                             </div>
@@ -491,7 +391,7 @@
                             <div class="work__inner">
                                 <span>03</span>
                                 <div class="work__content">
-                                    <img src="assets/images/work/icon/07.png" alt="work icon" />
+                                    <img width="90" height="90" src="assets/images/work/icon/prix.png" alt="work icon" />
                                     <h5>Prix abordables</h5>
                                     <p>Nos différents services sont à des prix abordables</p>
                                 </div>
@@ -503,7 +403,7 @@
                             <div class="work__inner">
                                 <span>04</span>
                                 <div class="work__content">
-                                    <img src="assets/images/work/icon/08.png" alt="work icon" />
+                                    <img width="90" height="90" src="assets/images/work/icon/honnete.png" alt="work icon" />
                                     <h5>Honnêteté</h5>
                                     <p>Nous nous caractérisons par l'honnêteté et la sincérité</p>
                                 </div>

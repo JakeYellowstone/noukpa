@@ -25,7 +25,7 @@
                         <div class="feature__item">
                             <div class="feature__inner">
                                 <div class="feature__thumb">
-                                    <img src="assets/images/feature/icon/08.png" alt="feature icon" />
+                                    <img src="assets/images/feature/icon/efficace.png" alt="feature icon" />
                                 </div>
                                 <div class="feature__content">
                                     <h4>Efficacité</h4>
@@ -38,7 +38,7 @@
                         <div class="feature__item">
                             <div class="feature__inner">
                                 <div class="feature__thumb">
-                                    <img src="assets/images/feature/icon/09.png" alt="feature icon" />
+                                    <img src="assets/images/work/icon/qualite.png" alt="feature icon" />
                                 </div>
                                 <div class="feature__content">
                                     <h4>Qualité</h4>
@@ -51,7 +51,7 @@
                         <div class="feature__item">
                             <div class="feature__inner">
                                 <div class="feature__thumb">
-                                    <img src="assets/images/feature/icon/10.png" alt="feature icon" />
+                                    <img src="assets/images/feature/icon/pro.png" alt="feature icon" />
                                 </div>
                                 <div class="feature__content">
                                     <h4>Professionnalisme</h4>
@@ -88,18 +88,18 @@
                         <div class="row g-4">
                             <div class="col-12">
                                 <div class="thumb">
-                                    <img src="assets/images/about/01.jpg" alt="about" class="w-100" />
+                                    <img src="assets/images/about/camion_648x300.jpg" alt="about" class="w-100" />
                                 </div>
                             </div>
                             <div class="col-sm-6 col-12">
                                 <div class="thumb">
-                                    <img src="assets/images/about/02.jpg" alt="about" class="w-100" />
+                                    <img src="assets/images/about/grue_tele_312x200.jpg" alt="about" class="w-100" />
                                 </div>
                             </div>
                             <div class="col-sm-6 col-12">
                                 <div class="thumb thumb--content">
                                     <h4>Nous sommes <br /> à votre disponibilité</h4>
-                                    <img src="assets/images/about/icon/03.png" alt="about icon" />
+                                    <img width="100" height="100" src="assets/images/work/icon/respect.png" alt="about icon" />
                                 </div>
                             </div>
                         </div>
@@ -113,7 +113,7 @@
 
 
     <!-- ==========specialtie Section Starts Here========== -->
-    <div class="specialtie padding-tb bg-img" style="background-image: url(assets/images/bg/03.jpg); background-position: center;">
+    <div class="specialtie padding-tb bg-img" style="background-image: url(assets/images/bg/fond_caillou.jpg); background-position: center;">
         <div class="container">
             <div class="section__header text-center">
                 <h6>Nos chiffres</h6>
@@ -125,11 +125,11 @@
                         <div class="specialtie__item">
                             <div class="specialtie__inner">
                                 <div class="specialtie__thumb">
-                                    <img src="assets/images/specialtie/01.png" alt="specialtie thumb" />
+                                    <img src="assets/images/feature/icon/pro.png" alt="specialtie thumb" />
                                 </div>
                                 <div class="specialtie__content">
                                     <h2 class="odometer mb-0" data-odometer-final="24066">0</h2>
-                                    <h5>Camions</h5>
+                                    <h3 class="text-white" >Camions</h3>
                                 </div>
                             </div>
                         </div>
@@ -138,11 +138,11 @@
                         <div class="specialtie__item">
                             <div class="specialtie__inner">
                                 <div class="specialtie__thumb">
-                                    <img src="assets/images/specialtie/02.png" alt="specialtie thumb" />
+                                    <img src="assets/images/feature/icon/pro.png" alt="specialtie thumb" />
                                 </div>
                                 <div class="specialtie__content">
                                     <h2 class="odometer mb-0" data-odometer-final="47890">0</h2>
-                                    <h5>Services</h5>
+                                    <h3 class="text-white" >Services</h3>
                                 </div>
                             </div>
                         </div>
@@ -151,11 +151,11 @@
                         <div class="specialtie__item">
                             <div class="specialtie__inner">
                                 <div class="specialtie__thumb">
-                                    <img src="assets/images/specialtie/03.png" alt="specialtie thumb" />
+                                    <img src="assets/images/feature/icon/pro.png" alt="specialtie thumb" />
                                 </div>
                                 <div class="specialtie__content">
                                     <h2 class="odometer mb-0" data-odometer-final="98745">0</h2>
-                                    <h5>Un exemple</h5>
+                                    <h3 class="text-white" >Un exemple</h3>
                                 </div>
                             </div>
                         </div>
@@ -164,11 +164,11 @@
                         <div class="specialtie__item">
                             <div class="specialtie__inner">
                                 <div class="specialtie__thumb">
-                                    <img src="assets/images/specialtie/04.png" alt="specialtie thumb" />
+                                    <img src="assets/images/feature/icon/pro.png" alt="specialtie thumb" />
                                 </div>
                                 <div class="specialtie__content">
                                     <h2 class="odometer mb-0" data-odometer-final="428">0</h2><span>+</span>
-                                    <h5>Un exemple</h5>
+                                    <h3 class="text-white" >Un exemple</h3>
                                 </div>
                             </div>
                         </div>

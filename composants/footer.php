@@ -37,12 +37,12 @@
                             </div>
                             <div class="footer__wrapper">
                                 <ul>
-                                    <li><a href="assets/images/footer/gallery/01.jpg" data-rel="lightcase"><img src="assets/images/footer/gallery/01.jpg" alt="gallery thumb" /></a></li>
-                                    <li><a href="assets/images/footer/gallery/02.jpg" data-rel="lightcase"><img src="assets/images/footer/gallery/02.jpg" alt="gallery thumb" /></a></li>
-                                    <li><a href="assets/images/footer/gallery/03.jpg" data-rel="lightcase"><img src="assets/images/footer/gallery/03.jpg" alt="gallery thumb" /></a></li>
-                                    <li><a href="assets/images/footer/gallery/04.jpg" data-rel="lightcase"><img src="assets/images/footer/gallery/04.jpg" alt="gallery thumb" /></a></li>
-                                    <li><a href="assets/images/footer/gallery/05.jpg" data-rel="lightcase"><img src="assets/images/footer/gallery/05.jpg" alt="gallery thumb" /></a></li>
-                                    <li><a href="assets/images/footer/gallery/06.jpg" data-rel="lightcase"><img src="assets/images/footer/gallery/06.jpg" alt="gallery thumb" /></a></li>
+                                    <li><a href="assets/images/project/varquier_416x416.jpg" data-rel="lightcase"><img src="assets/images/project/varquier_416x416.jpg" alt="gallery thumb" /></a></li>
+                                    <li><a href="assets/images/project/plateau_416x416.jpg" data-rel="lightcase"><img src="assets/images/project/plateau_416x416.jpg" alt="gallery thumb" /></a></li>
+                                    <li><a href="assets/images/project/grue_tele_416x416.jpg" data-rel="lightcase"><img src="assets/images/project/grue_tele_416x416.jpg" alt="gallery thumb" /></a></li>
+                                    <li><a href="assets/images/project/grue_porte_416x416.jpg" data-rel="lightcase"><img src="assets/images/project/grue_porte_416x416.jpg" alt="gallery thumb" /></a></li>
+                                    <li><a href="assets/images/project/manganese_416x416.jpg" data-rel="lightcase"><img src="assets/images/project/manganese_416x416.jpg" alt="gallery thumb" /></a></li>
+                                    <li><a href="assets/images/project/ciment_416x416.jpg" data-rel="lightcase"><img src="assets/images/project/ciment_416x416.jpg" alt="gallery thumb" /></a></li>
                                 </ul>
                             </div>
                         </div>

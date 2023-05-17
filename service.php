@@ -38,7 +38,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/01.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/bitume_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -58,7 +58,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/02.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/varquier_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -78,7 +78,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/03.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/plateau_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -98,7 +98,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/03.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/aggregat_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/03.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/ciment_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/03.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/emulsion_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/03.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/manganese_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -178,7 +178,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/03.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/turf_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -198,7 +198,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/03.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/nickel_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -218,7 +218,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/03.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/bauxite_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -238,7 +238,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/04.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/grue_porte_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
@@ -258,7 +258,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="pp-back" style="background-image: url(assets/images/project/05.jpg);">
+                            <div class="pp-back" style="background-image: url(assets/images/project/grue_tele_416x416.jpg);">
                                 <a href="nos_contact.php" class="lab-btn">Nos contacts</a>
                             </div>
                         </div>
